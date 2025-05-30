@@ -28,8 +28,9 @@ Monica Miyasato: Loved seeing so many powerful Latinas taking up space in tech! 
 Feel free to add your own reason below!<br>
 Example:<br>
 Monica: To lift my comunidad and build visible, inclusive tech spaces. <br>
-<br> Heidy Nayeli Naranjo: I wanna become a better SWE and be a better contributor <br>
 [Your Name]: [Your Reason]
+
+<br> Heidy Nayeli Naranjo: I wanna become a better SWE and be a better contributor <br>
 
 ---
 ## :star: Keep Exploring
